@@ -1,3 +1,3 @@
 ## Session Notes 😀
 
-Paragrapgh wurde angepasst
+add html index page
