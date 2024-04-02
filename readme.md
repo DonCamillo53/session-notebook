@@ -1,4 +1,3 @@
 ## Session Notes 😀
 
-This is a note
-Test
+Paragrapgh wurde angepasst
